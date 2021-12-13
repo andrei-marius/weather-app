@@ -1,0 +1,25 @@
+body{
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+.container{
+    max-width: 400px;
+}
+.icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
+h5{
+    font-size: 25px;
+    margin-top: 10px;
+}
+#temp-container {
+    font-size: 45px;
+}
+#weather{
+    margin-bottom: 20px;
+}
